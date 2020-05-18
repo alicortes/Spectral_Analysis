@@ -31,7 +31,7 @@ figure;plotT(doy,T,depth)
 % day1 = input('Input the first day (doy) of your period of interest =  '); 
 % day2 = input('Input the last day (doy) of your period of interest =  '); 
 yeart = 2019;
-day1 = 165;
+day1 = 166;
 day2 = 172; 
 
 
